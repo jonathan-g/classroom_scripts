@@ -1,8 +1,9 @@
+#! /bin/sh
 # This file is for cloning assignments made in GitHub Classroom
 # It requires three command line arguments
 # 1 - the name of the github classroom
 # 2 - the name of the assignment
-# 3 - the name of the file with a list of student names. 
+# 3 - the name of the file with a list of student names.
 # The names in the file MUST be one username per line, with a blank line at end.
 # Author: @umasshokie, Megan Olsen
 
